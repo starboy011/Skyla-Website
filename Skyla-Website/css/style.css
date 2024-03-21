@@ -170,13 +170,12 @@ body {
 }
 
 .home {
-  min-height: 100vh;
+  min-height: 70vh;
   width: 100vw;
   background-image: url(../images/img1.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
-  justify-content: center;
   flex-flow: column;
   text-align: center;
   padding: 0 1rem;
@@ -185,12 +184,13 @@ body {
 }
 
 .home h1 {
-  color: #fff;
+  margin-top: 90px;
+  color: #000000;
   font-size: 5.5rem;
 }
 
 .home h2 {
-  color: #fff;
+  color: #000000;
   font-size: 3rem;
 }
 
